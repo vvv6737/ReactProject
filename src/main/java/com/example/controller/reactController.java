@@ -8,6 +8,6 @@ public class reactController {
 
     @GetMapping("/main")
     public String reactMain() {
-        return "/main/main";
+        return "/main";
     }
 }
