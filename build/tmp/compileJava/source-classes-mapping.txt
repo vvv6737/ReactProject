@@ -1,4 +1,4 @@
-com/example/controller/reactController.java
- com.example.controller.reactController
-com/example/demo/DemoApplication.java
- com.example.demo.DemoApplication
+com/react/controller/reactController.java
+ com.react.controller.reactController
+com/react/application/ReactApplication.java
+ com.react.application.ReactApplication

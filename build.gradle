@@ -32,7 +32,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web-services'
 }
 
-def webappDir = "$projectDir/src/main/myproject"
+def webappDir = "$projectDir/src/main/frontend"
 
 sourceSets {
 	main {
