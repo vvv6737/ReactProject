@@ -1,4 +1,6 @@
-com/react/controller/reactController.java
- com.react.controller.reactController
+com/react/application/Board/BoardController.java
+ com.react.application.Board.BoardController
+com/react/application/User/UserController.java
+ com.react.application.User.UserController
 com/react/application/ReactApplication.java
  com.react.application.ReactApplication
