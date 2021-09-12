@@ -5,7 +5,7 @@
 
 <mapper namespace="com.react.application.User.UserMapper">
     <!-- 유저 목록 보기 -->
-    <select id="UserList" resultType="com.react.application.User.UserVO">
+    <select id="userList" resultType="com.react.application.User.UserVO">
         SELECT
         USERSEQ,
         USERID,
