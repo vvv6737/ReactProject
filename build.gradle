@@ -37,7 +37,7 @@ dependencies {
 	implementation group: 'org.webjars', name: 'jquery', version: '3.3.1'
 }
 
-def webappDir = "$projectDir/src/main/frontend"
+def webappDir = "$projectDir/src/main/BoardProject"
 
 sourceSets {
 	main {
